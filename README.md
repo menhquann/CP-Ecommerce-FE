@@ -1,1 +1,1 @@
-# CP-Ecommerce-FE
+# CapstoneProject-Ecommerce
